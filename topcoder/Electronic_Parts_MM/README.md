@@ -19,6 +19,5 @@ A customer purchases an SP in similar quantities over time:
 Regardless of changes in "the market price" (i.e., PRODUCT_COST1 in the data set); and
 Regardless of change in price markup over "the market price" (i.e., PRODUCT_COST1 in the data set) for that part, up to a certain limit.; and
 At regular intervals, Supplier designates certain parts as SPs, based on past experience and intuition. That designation helps inform business decisions.
-
 While the two criteria above constitute Supplier’s working definition of an SP, the company suspects that more detailed and specific rules involving other dimensions may also affect customer perception of SPs, like season and geographic location, and customer segment. The firm also suspects that SPs may vary from one customer to another.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
